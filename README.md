@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and developing my technical skills.**
 
-- 💬 Ask me about **React, Flask, Python, Java Script, MySQL, MongoDB, BootStrap, Tailwind**
+- 💬 Ask me about **ReactJS, Flask, Python, Java Script, MySQL, NodeJs, MongoDB, BootStrap, Tailwind**
 
 - 📫 How to reach me **saadyusuf17@hotmail.com**
 
