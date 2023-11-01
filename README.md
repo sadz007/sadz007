@@ -3,11 +3,11 @@
 <img align="right" alt="" width="400" src=“https://unsplash.com/photos/-Xqckh_XVU4”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadz007&label=Profile%20views&color=0e75b6&style=flat" alt="sadz007" /> </p>
 
-- 🌱 I’m currently learning **Django and developing my technical skills.**
+- 🌱 I’m currently learning ** Django and developing my technical skills.**
 
-- 💬 Ask me about **ReactJS, Flask, Python, Java Script, MySQL, NodeJs, MongoDB, BootStrap, Tailwind**
+- 💬 Ask me about ** ReactJS, Flask, Python, Java Script, MySQL, NodeJs, MongoDB, BootStrap, Tailwind **
 
-- 📫 How to reach me **saadyusuf17@hotmail.com** 
+- 📫 How to reach me ** saadyusuf17@hotmail.com ** 
 
 - ⚡ Fun fact **When Life throws error, console.log('Life')**
 
